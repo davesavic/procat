@@ -1,0 +1,6 @@
+roles:
+  - name: "business"
+    permissions:
+      - "businesses.read.own"
+      - "businesses.read.any"
+      - "businesses.read.associated"
